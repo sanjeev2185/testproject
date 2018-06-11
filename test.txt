@@ -1,0 +1,11 @@
+ Volume in drive D is New Volume
+ Volume Serial Number is 6C5E-1352
+
+ Directory of D:\xampp\htdocs\git
+
+11-Jun-18  03:38 PM    <DIR>          .
+11-Jun-18  03:38 PM    <DIR>          ..
+11-Jun-18  03:35 PM                25 index.php
+11-Jun-18  03:38 PM                 0 test.txt
+               2 File(s)             25 bytes
+               2 Dir(s)  92,005,359,616 bytes free
